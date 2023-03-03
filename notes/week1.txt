@@ -1,0 +1,5 @@
+
+marks:90
+remarks:
+Q1. wrong solution for bit e
+Q2. haven't completed the mapping
