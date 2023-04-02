@@ -1,3 +1,2 @@
-hw:
+hw: 100 
 lab:0
-Hw reference: #https://vitalflux.com/roc-curve-auc-python-false-positive-true-positive-rate/
